@@ -1,4 +1,5 @@
-## Hi there 👋
+Hola! Soy Manuel Mora , Actualmente soy estudiante de 2do año de ingenieria informatica.
+
 
 ### 🛠️ Tecnologías y Herramientas
 
