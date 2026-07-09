@@ -1,4 +1,5 @@
-Hola! Soy Manuel Mora , Actualmente soy estudiante de 2do año de ingenieria informatica.
+Hola! Soy Manuel Mora tengo 19 años.
+Actualmente soy estudiante de 2do año de ingenieria informatica.
 
 
 Tecnologias de mis conocimientos adquiridos:
